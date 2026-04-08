@@ -34,6 +34,14 @@ body {
     font-size: 20px;
 
 }
+#name{
+    font-size: 50px;
+    font-family: "Cinzel Decorative", serif;
+}
+#bio{
+    font-family: "Cinzel Decorative", serif;
+    padding: 50px;
+}
 a{
     text-decoration: none;
 }
